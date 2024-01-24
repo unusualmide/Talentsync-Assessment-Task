@@ -3,7 +3,7 @@ function Footer() {
     <div className="flex mx-20 mt-24 mb-12">
         <div className="flex flex-col gap-8 pr-[100px]">
         <div className="inline-flex gap-2.5">
-          <img className="block" src="/public/images/Group.svg" alt="Group" />
+          <img className="block" src="/images/Group.svg" alt="Group" />
           <p className="text-2xl font-semibold leading-normal text-gray/900">
             ClearLink<span className="text-blue/400">.</span>
           </p>
