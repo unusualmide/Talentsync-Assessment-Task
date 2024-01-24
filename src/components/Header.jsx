@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header className="mx-20 mt-10 mb-24">
+    <header className="mx-20 mt-10 mb-24 bg-hero-pattern bg-no-repeat bg-cover bg-center">
       <div className="flex items-center justify-between rounded-[100px] border border-gray/300 bg-gray/100 px-8 py-4">
         <div className="inline-flex gap-2.5 justify-center items-center">
           <img className="block" src="/images/Group.svg" alt="Group" />

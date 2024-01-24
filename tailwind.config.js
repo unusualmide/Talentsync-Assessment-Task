@@ -28,8 +28,11 @@ export default {
         'blue/100': '#D1E9FF',
         'gray/50': '#F9FAFB',
         'gray/200': '#EAECF0',
-
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/images/background-pattern.png')",
       }
+
     },
   },
   plugins: [],
